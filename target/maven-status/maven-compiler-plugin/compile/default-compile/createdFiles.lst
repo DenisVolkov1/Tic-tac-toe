@@ -1,0 +1,6 @@
+visual\dialog\StartScreen.class
+visual\dialog\EndGame.class
+sound\Sound.class
+logic\Logic.class
+visual\GameField.class
+visual\MainScreen.class
